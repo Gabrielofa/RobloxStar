@@ -16,3 +16,8 @@ header{display: flex;
 #lula{
     width: 50%;
 }
+
+
+.introucao{
+    display: flex;
+}
