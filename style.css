@@ -19,5 +19,7 @@ header{display: flex;
 
 
 .introducao{
-    display: flex;
+   display: flex;
+   margin: 20px 0 0 0
+   padding ;
 }
