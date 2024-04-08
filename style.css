@@ -47,4 +47,10 @@ header{
 
 .lado{
     display: flex;
+    align-items: center;
+    padding: 20px;
+}
+
+.esp{
+    padding: 20px;
 }
