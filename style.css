@@ -61,6 +61,11 @@ header{
 .foto{
     width: 40%;
 }
-.tam2{
+.imagens{
     width: 50%;
+}
+.produtos{
+    display: flex;
+    align-items: center;
+    padding: 50px;
 }
