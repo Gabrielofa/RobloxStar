@@ -48,7 +48,7 @@ header{
 .lado{
     display: flex;
     align-items: center;
-    padding: 50px;
+    padding: 20px;
 }
 
 .esp{
@@ -56,16 +56,11 @@ header{
 }
 
 .tam{
-    width: 40%;
+    width: 22%;
 }
 .foto{
     width: 40%;
 }
-.imagens{
-    width: 50%;
-}
-.produtos{
-    display: flex;
-    align-items: center;
-    padding: 50px;
+.tam2{
+    width: 100%;
 }
