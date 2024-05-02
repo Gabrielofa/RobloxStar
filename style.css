@@ -10,7 +10,7 @@ body{
     
 }
 img{
-    width:30%;
+    width:10%;
 }
 header{
     display: flex;
@@ -20,7 +20,7 @@ header{
     font-weight: 400;
     font-style: normal;
     background-color: #1E8DA6;
-    padding: 20px;
+    padding: 30px;
 }
 .titulo{
         font-size: 30px;
