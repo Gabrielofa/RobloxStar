@@ -39,7 +39,7 @@ header{
    padding: 20px 0 ;
    background-color:#00b7ff;
 }
-.equipe{
+#equipe{
     display: grid;
     grid-template-columns: 33% 33% 33%;
     text-align: center;
