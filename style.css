@@ -10,7 +10,7 @@ body{
     
 }
 img{
-    width:30%;
+    width:10%;
 }
 header{
     display: flex;
@@ -59,7 +59,7 @@ header{
     width: 22%;
 }
 .foto{
-    width: 40%;
+    width: 70%;
 }
 .tam2{
     width: 100%;
